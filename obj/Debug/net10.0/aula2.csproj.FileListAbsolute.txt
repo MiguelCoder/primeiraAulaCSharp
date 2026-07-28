@@ -12,3 +12,4 @@
 /home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.pdb
 /home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.genruntimeconfig.cache
 /home/miguel/CSharp/aula2/obj/Debug/net10.0/ref/aula2.dll
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.sourcelink.json
