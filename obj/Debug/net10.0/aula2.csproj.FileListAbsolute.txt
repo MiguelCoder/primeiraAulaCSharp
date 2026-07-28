@@ -1,0 +1,14 @@
+/home/miguel/CSharp/aula2/bin/Debug/net10.0/aula2
+/home/miguel/CSharp/aula2/bin/Debug/net10.0/aula2.deps.json
+/home/miguel/CSharp/aula2/bin/Debug/net10.0/aula2.runtimeconfig.json
+/home/miguel/CSharp/aula2/bin/Debug/net10.0/aula2.dll
+/home/miguel/CSharp/aula2/bin/Debug/net10.0/aula2.pdb
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.GeneratedMSBuildEditorConfig.editorconfig
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.AssemblyInfoInputs.cache
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.AssemblyInfo.cs
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.csproj.CoreCompileInputs.cache
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.dll
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/refint/aula2.dll
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.pdb
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/aula2.genruntimeconfig.cache
+/home/miguel/CSharp/aula2/obj/Debug/net10.0/ref/aula2.dll
